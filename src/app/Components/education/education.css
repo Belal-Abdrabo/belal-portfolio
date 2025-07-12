@@ -1,0 +1,6 @@
+.education-item {
+    background: linear-gradient(45deg, #f8f9fa 0%, #e9ecef 100%);
+    padding: 1.5rem;
+    border-radius: 10px;
+    border-left: 5px solid var(--success-color);
+}

@@ -1,0 +1,10 @@
+.training-item {
+    border-left: 4px solid var(--primary-color);
+    padding-left: 1rem;
+    margin-left: 0.5rem;
+}
+
+.training-item:not(:last-child) {
+    border-bottom: 1px solid #e9ecef;
+    padding-bottom: 2rem;
+}
